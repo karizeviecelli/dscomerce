@@ -1,6 +1,6 @@
 package com.devsuperior.uri2621.projections;
 
-public interface ProductsMinProjections {
+public interface ProductsMinProjection {
 
     String getName();
 

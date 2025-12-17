@@ -1,4 +1,6 @@
 package com.devsuperior.uri2611.projections;
 
-public class MovieMinProjection {
+public interface MovieMinProjection {
+    Long getId();
+    String getName();
 }
